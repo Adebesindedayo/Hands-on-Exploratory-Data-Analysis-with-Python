@@ -30,7 +30,3 @@ It is important to practice what you have learned from this book. Hence, we have
  [![googleplay](https://user-images.githubusercontent.com/2022919/82116302-0a656980-9769-11ea-8426-6460219fc76f.png)](https://play.google.com/store/apps/details?id=com.sureshkumarmukhiya.techquiz)
 </div>
 
-# Contributors
-
-- [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA)
-- [Usman Ahmed](https://github.com/usman189)
